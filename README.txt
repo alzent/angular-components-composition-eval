@@ -1,3 +1,8 @@
+Module nachinstallieren
+---
+npm install
+
+
 Starten:
 --
 ng serve
